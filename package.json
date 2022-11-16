@@ -1,0 +1,16 @@
+{
+  "name": "my-code-app",
+  "version": "1.0.0",
+  "description": "WD-201-LVL2 Assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sahil Khubchandani <sahil.khubchandani113814@marwadiunviersity.ac.in>",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.27.0",
+    "minimist": "^1.2.7"
+  }
+}
